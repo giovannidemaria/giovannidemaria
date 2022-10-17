@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giovidemaria
+- 👋 Hi, I’m @giovannidemaria
 - 👀 I’m interested in Technologies ad development
 - 🌱 I’m currently learning IT ENGINEERING at UNITS
 - 📫 How to reach me giovanni@de-maria.eu
