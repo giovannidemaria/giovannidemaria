@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giovannidemaria
 - 👀 I’m interested in Technologies ad development
-- 🌱 I’m currently learning IT ENGINEERING at UNITS
+- 🌱 I’m currently a MSc student of Cybersecurity at Politecnico di Torino
 - 📫 How to reach me giovanni@de-maria.eu
 
 <!---
