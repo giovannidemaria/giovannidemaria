@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giovannidemaria
-- 👀 I’m interested in Technologies, development and Cybersecurity
+- 👀 I’m interested in Cybersecurity, Computer programming and ML 
 - 🌱 I’m currently a MSc student of Cybersecurity at Politecnico di Torino
 - 📫 How to reach me giovanni@de-maria.eu
 
